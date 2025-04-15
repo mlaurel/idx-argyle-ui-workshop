@@ -31,10 +31,9 @@ search {
     font-size: 1rem;
     line-height: 1.1;
     color: var(--text-1);
-    background: var(--surface-2);
+    background: var(--surface-3);
     padding-inline: 3rem 1rem;
-    outline: none;
-    border: none;
+    border: 1px solid oklab(25% 0.0 0.1 / .1);
     border-radius: 3rem;
   }
 
